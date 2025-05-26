@@ -10,8 +10,8 @@
 >售价：20元 
 
 
->**演示站**：[https://zyyo.cc](https://zyyo.cc)  
->**后台**：[https://zyyo.cc/admin](https://zyyo.cc/admin)  
+>**演示站**：[https://hanze.icu](https://hanze.icu)  
+>**后台**：[https://hanze.icu/admin](https://hanze.icu/admin)  
 >**账号**：admin  
 >**密码**：123456  
 
@@ -19,7 +19,7 @@
 > QQ：3509679579  
 > QQ交流群：560938976  
 
-![主页截图](https://zyyo.net/usr/picture/homepage.png)  
+![主页截图](https://hanze.icu/usr/picture/homepage.png)  
 
 ---
 
@@ -107,7 +107,7 @@
 - 主要文件：
 - /static/root.css：主题样式文件。
 - /static/style.css：样式文件，可修改字体。
-- /static/img/favicon.ico：网页图标和头像。
+- /static/img/favicon.png：网页图标和头像。
 - /static/script.js：JS 功能文件。
 
 🧠 技术栈
